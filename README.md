@@ -2,7 +2,7 @@
 
 ![Tauany Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauanybueno&theme=dracula&show_icons=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=tauanybueno&layout=compact&langs_count=16&theme=dracula)
 
 
 
