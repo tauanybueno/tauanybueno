@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/tauanybueno/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tauanybueno&repo=convoychat" />
+</a>
+
 ![Tauany Bueno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tauanybueno&theme=dracula&show_icons=true)
 
 (https://github-readme-stats.vercel.app/api/top-langs/?username=tauanybueno&layout=compact&langs_count=16&theme=dracula)
