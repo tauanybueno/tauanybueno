@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div style="display: inline_block">
-  <a href="https://github.com/tauanybueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauanybueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauanybueno&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/tauanybueno/tauanybueno/blob/output/github-contribution-grid-snake.svg)
